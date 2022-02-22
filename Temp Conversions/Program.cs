@@ -7,9 +7,11 @@ namespace Temp_Conversions
         static void Main(string[] args)
         {
             double fahrenheit;
+            double celsius;
 
+            Console.WriteLine("If Celsius enter C; If Fahrenheit enter F");
 
-            double celsius = 36;
+            celsius = 5.0 / 9.0 * (f - 32);
             Console.WriteLine("Celsius:" + celsius);
 
             fahrenheit = 9.0 / 5.0 * celsius + 32;
