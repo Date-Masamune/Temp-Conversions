@@ -16,16 +16,17 @@ namespace Temp_Conversions
 
             Console.WriteLine("Enter the Temperature in Celsius(°C) : ");
             c = double.Parse(Console.ReadLine());
-            f = (9.0 / 5.0 * c + 32);
-            Console.WriteLine("Celsius:" + c);
-
-
-            Console.WriteLine("Enter the temperature in Fahrenheight(");
-            f = double.Parse(Console.ReadLine());
-            c = 5.0 / 9.0 * (f - 32);
+            f = 9.0/ 5.0 * c + 32;
             Console.WriteLine("Fahrenheit " + f);
 
-            Console.ReadLine();
+
+
+
+            Console.WriteLine("Enter the temperature in Fahrenheight(°F)");
+            f = double.Parse(Console.ReadLine());
+            c =  5.0 / 9.0 * (f - 32);
+            Console.WriteLine("Celsius:" + c);
+           
 
 
 
@@ -49,3 +50,8 @@ namespace Temp_Conversions
 //f = int.Parse(Console.ReadLine());
 //c = (f * 5) / 9 - 32;
 //Console.WriteLine("Temperture in Celcius(°C) :");
+
+
+
+
+//Console.ReadLine();

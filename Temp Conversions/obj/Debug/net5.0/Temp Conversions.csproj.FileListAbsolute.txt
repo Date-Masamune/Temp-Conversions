@@ -13,3 +13,4 @@ C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\ref\Temp Conversions.dll
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.pdb
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.genruntimeconfig.cache
+C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.csproj.AssemblyReference.cache
