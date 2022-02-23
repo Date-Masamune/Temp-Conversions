@@ -1,8 +1,3 @@
-C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.csproj.AssemblyReference.cache
-C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.AssemblyInfoInputs.cache
-C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.AssemblyInfo.cs
-C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.csproj.CoreCompileInputs.cache
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\bin\Debug\net5.0\Temp Conversions.exe
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\bin\Debug\net5.0\Temp Conversions.deps.json
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\bin\Debug\net5.0\Temp Conversions.runtimeconfig.json
@@ -10,6 +5,10 @@ C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\bin\Debug\net
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\bin\Debug\net5.0\Temp Conversions.dll
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\bin\Debug\net5.0\ref\Temp Conversions.dll
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\bin\Debug\net5.0\Temp Conversions.pdb
+C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.AssemblyInfoInputs.cache
+C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.AssemblyInfo.cs
+C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.csproj.CoreCompileInputs.cache
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.dll
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\ref\Temp Conversions.dll
 C:\Users\4400112799\Source\Repos\Temp-Conversions\Temp Conversions\obj\Debug\net5.0\Temp Conversions.pdb
