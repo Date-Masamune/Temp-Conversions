@@ -6,6 +6,7 @@ namespace Temp_Conversions
    {
         static void Main(string[] args)
         {
+
             double fahrenheit;
             double celsius;
 
@@ -18,6 +19,26 @@ namespace Temp_Conversions
             Console.WriteLine("Fahrenheit " + fahrenheit);
 
             Console.ReadLine();
+
+
+
         }
-   }
+    }
 }
+
+
+
+
+//int c, f;
+
+
+//Console.WriteLine("Enter the Temperature in Celsius(°C) : ");
+//c = int.Parse(Console.ReadLine());
+//f = (c * 9) / 5 + 32;
+//Console.WriteLine("Temperature in Fahrenheit is(°F) : " + f);
+//Console.ReadLine();
+
+//Console.WriteLine("Enter the temperature in Fahrenheight(");
+//f = int.Parse(Console.ReadLine());
+//c = (f * 5) / 9 - 32;
+//Console.WriteLine("Temperture in Celcius(°C) :");
